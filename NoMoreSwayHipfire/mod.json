@@ -1,0 +1,13 @@
+{
+	"Name": "NoMoreSwayHipfire",
+	"Description": "Remove Weapon Sway Hipfrire for all Weapons",
+	"Version": "1.0.0",
+	"LoadPriority": 0,
+	  "Scripts": [
+		  {
+			  "Path": "",
+			  "RunOn": "CLIENT"
+  
+		  }
+	  ]
+  }

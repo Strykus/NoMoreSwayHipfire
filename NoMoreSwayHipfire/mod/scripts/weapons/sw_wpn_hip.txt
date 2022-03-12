@@ -1,0 +1,69 @@
+WeaponData
+{
+	//
+	"viewmodel_shake_forward"						"0.0"
+	"viewmodel_shake_up"							"0.0"
+	"viewmodel_shake_right"							"0.0"
+
+	//
+	"viewmodel_shake_forward"						"0.0"
+	"viewmodel_shake_up"							"0.0"
+	"viewmodel_shake_right"							"0.0"
+
+	// Bob
+	"bob_cycle_time"  								"0.0"
+	"bob_vert_dist"   								"0.0"
+	"bob_horz_dist"   								"0.0"
+	"bob_max_speed"   								"0"
+	"bob_pitch"   									"0.0"
+	"bob_yaw" 										"0.0"
+	"bob_roll"										"0.0"
+
+	// Sway
+	"sway_rotate_attach"  							"SWAY_ROTATE"
+	"sway_min_x"  									"0.0"
+	"sway_min_y"  									"0.0"
+	"sway_min_z"  									"0.0"
+	"sway_max_x"  									"0.0"
+	"sway_max_y"  									"0.0"
+	"sway_max_z"  									"0.0"
+	"sway_min_pitch"  								"0"
+	"sway_min_yaw"									"0.0"
+	"sway_min_roll"   								"0"
+	"sway_max_pitch"  								"0"
+	"sway_max_yaw"									"0.0"
+	"sway_max_roll"   								"0"
+	"sway_translate_gain" 							"0.0"
+	"sway_rotate_gain"								"0"
+	"sway_move_forward_translate_x"   				"0.0"
+	"sway_move_forward_translate_z"   				"0.0"
+	"sway_move_back_translate_x"  					"0.0"
+	"sway_move_back_translate_z"  					"0.0"
+	"sway_move_left_translate_y"  					"0"
+	"sway_move_left_translate_z"  					"0.0"
+	"sway_move_left_rotate_roll"  					"0"
+	"sway_move_right_translate_y" 					"0"
+	"sway_move_right_translate_z" 					"0.0"
+	"sway_move_right_rotate_roll" 					"0"
+	"sway_move_up_translate_z"						"0"
+	"sway_move_down_translate_z"  					"0"
+	"sway_turn_left_rotate_yaw"   					"0.0"
+	"sway_turn_right_rotate_yaw"  					"0.0"
+													 
+	"sway_turn_left_translate_y"  					"0"
+	"sway_turn_right_translate_y"  					"0.0"
+	"sway_turn_up_translate_z"  					"0"
+	"sway_turn_down_translate_z"  					"0.0"
+	"sway_turn_up_translate_x"  					"0"
+	"sway_turn_down_translate_x"  					"0.0"
+													 
+	"sway_turn_left_rotate_roll"   					"0"
+	"sway_turn_right_rotate_roll"  					"0"
+	"sway_turn_up_rotate_pitch"   					"0"
+	"sway_turn_down_rotate_pitch" 					"0"
+	"sway_turn_up_rotate_roll"   					"0.0"
+	"sway_turn_down_rotate_roll" 					"0.0"
+	
+	
+	"sprintcycle_time"								"99"
+}

@@ -1,0 +1,12 @@
+[NoMoreSwayHipfire v1.0]
+Remove Hipfire Weapon Sway in Titanfall 2
+Want to ask me something? feel free to dm in my discord: Avalar#2742
+
+v1.0 Remove Hipfire Weapon Sway for all weapons
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
+     
+Install mod by going to Titanfall 2 root directory >>> "R2Northstar" and drop mod folder named "NoMoreSway" into "mods" folder.
